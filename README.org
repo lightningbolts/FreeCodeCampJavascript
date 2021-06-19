@@ -1,0 +1,8 @@
+* SICP in Typtscript
+
+** Dev and run
+- `yarn start:dev`
+- `yarn test`
+`yarn coverage`
+`yarn build`
+`yarn start`
