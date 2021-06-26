@@ -1,4 +1,4 @@
-function sumPrimes(num) {
+export function sumPrimes(num) {
   // Helper function to check primality
   function isPrime(num) {
     for (let i = 2; i <= Math.sqrt(num); i++) {
