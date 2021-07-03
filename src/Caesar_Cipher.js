@@ -14,4 +14,4 @@ export function caesarCipher(str, shifter) {
   }).join("")
 }
 
-console.log(caesarCipher("SERR PBQR PNZC"));
+console.log(caesarCipher("SERR PBQR PNZC", 13));
